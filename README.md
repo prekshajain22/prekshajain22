@@ -1,17 +1,15 @@
-<h1 align="center">Preksha Jain</h1>
-<h3 align="center">SDET | Automation Architect | QA Leader</h3>
+# Preksha Jain  
+SDET | Automation Architect | QA Leader
 
-<p align="center">
-Designing scalable automation frameworks • Driving QA strategy • Staying hands-on with code
-</p>
+Designing scalable automation frameworks. Driving QA strategy. Staying hands-on with code.
 
 ---
 
 ## About
 
-I am an Automation Architect and SDET with a strong balance of strategic ownership and hands-on engineering. I design automation frameworks, define QA strategy, and work closely with teams to build reliable, maintainable test solutions across complex systems.
+I am an Automation Architect and SDET with a balanced focus on strategy and hands-on engineering. I design test frameworks, define QA approaches, and work closely with teams to build reliable and maintainable automation across complex systems.
 
-I enjoy solving quality problems at architecture level while staying close to the code.
+I enjoy working at architecture level while staying close to implementation.
 
 ---
 
@@ -21,7 +19,7 @@ I enjoy solving quality problems at architecture level while staying close to th
 - Define end-to-end QA strategy and quality governance  
 - Drive CI/CD quality gates and continuous testing practices  
 - Stay hands-on with automation development and code reviews  
-- Mentor engineers and partner with senior stakeholders  
+- Mentor engineers and work closely with senior stakeholders  
 
 ---
 
@@ -37,25 +35,23 @@ I enjoy solving quality problems at architecture level while staying close to th
 
 ## Featured Work
 
-### Enterprise Automation Framework
-Designed and built a scalable automation framework for UI and API testing used across multiple teams. Focused on clean architecture, maintainability, and execution speed.
+### Enterprise Automation Framework  
+Designed and built a scalable automation framework for UI and API testing used across multiple teams, with focus on clean architecture, maintainability, and execution speed.
 
-### CI/CD Quality Integration
-Integrated automated tests into pipelines with quality gates to provide fast feedback and improve release confidence. Worked closely with DevOps and engineering leads.
+### CI/CD Quality Integration  
+Integrated automated tests into pipelines with quality gates to enable faster feedback and improve release confidence.
 
-### Microservices Testing Strategy
-Defined API and contract testing approach for microservices-based systems. Reduced late-stage integration issues and improved release stability.
+### Microservices Testing Strategy  
+Defined API and contract testing approach for microservices-based systems, reducing late-stage integration issues.
 
-### QA Transformation & Team Leadership
+### QA Transformation & Team Leadership  
 Built and mentored QA teams, introduced shift-left practices, and improved delivery predictability through modern automation approaches.
 
 ---
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="50%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
 
 ---
 
